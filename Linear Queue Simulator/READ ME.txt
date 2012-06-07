@@ -1,0 +1,27 @@
+      
+               
+                        LINEAR QUEUE
+                        ************
+
+
+Linear Queue is a C Graphics based simulator for the working of the Linear Queue data structure.This program works well if the graphics directory for the program matches exactly 
+
+i.e. d:\\tcpp
+
+
+if the graphics directory for the C in the system differs the program needs to be changed as shown below
+
+Just go and check the program for the following line and modify it as 
+
+initgraph(&gd,&gm," ");
+
+here in the double quotes type the path of the graphics directory
+
+eg:
+
+initgraph(&gd,&gm,"d:\\tcpp\\bgi");
+
+
+then run the program
+.
+
