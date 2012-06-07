@@ -1,0 +1,6 @@
+
+
+                  Master Command.com
+                 -------------------- 
+
+This program is able to change your DOS commands.Be sure that you are taking back-up of your command.com file before making changes to the file.This program directly changes the command.com file that exist either in c:\ drive or in c:\windows\ directory, once you change the command that will be changed for ever. In order to get the original DOS commands you have to remember the changed commands.
