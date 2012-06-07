@@ -1,0 +1,61 @@
+
+READ ME : TO HELP YOU BETTER
+	
+****************************************************************************
+
+	
+1. Installation Guide
+---------------------
+
+1.1 Copying files
+		
+COPY THE FOLDER { NEGI } TO C:\
+COPY THE FOLDER { TC } TO C:\
+
+THAT'S ALL NEEDED TO RUN THIS.
+
+
+Once the file been opened, you can run it.....
+
+1.2 Debugging errors
+
+
+Problems you may face......
+
+1.2.1 At compilation it will show 17 warnings but don't bother about it... that's just to tease you. Even though the warnings are there you can run this program, and its as good as you can think.
+
+1.2.2 Suppose you run it and it shows 3 errors but 0 warnings this time, cool hmmmm, no warnings this time. The error messages reads like " Linker Error : Segment _TEXT exceeds 64K ". In this case you got to do the following
+
+1.2.2.1 Go to "Options" menu.
+1.2.2.2 Click on "Application...".
+1.2.2.3  Click on overlay button.
+
+thats all...... but don't ask me what you did there. In case need to know mail me at manohar.negi@gmail.com
+
+
+1.3 Ok one last minute tip
+--------------------------
+
+1.3.1 In case it doesn't run recompile your program.
+1.3.2 Even after compiling it doesn't run means you need to restart your TC, i bet it will run afterwards.
+
+
+
+2. User Interface Guidelines
+----------------------------
+
+
+2.1 You can activate menus Simply by pressing first Key that is highlighted or directly by mouse clicking.
+
+2.2 After each selection you need to press any key, don't go searching for "any" key there is no such key. Just kidding i mean press whatever button you like to use other menus.
+
+2.3 For your help status bar will display what to do next.
+
+
+
+
+GOOD LUCK ! MANOHAR NEGI, 5TH SEM, ISE RVCE 
+
+No copyright issues you can simply use it share it whatever you want do it with code.
+	
+*************************************************************************************
